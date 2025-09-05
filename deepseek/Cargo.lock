@@ -133,6 +133,7 @@ name = "deepseek"
 version = "0.1.0"
 dependencies = [
  "rig-core",
+ "serde_json",
  "tokio",
 ]
 
